@@ -1,28 +1,7 @@
-- voicemeter
-- viber
-- greenshot
-- microsoft
-- windows settings
-- git 
-- vscode fresh installer for windows
-- okular
-
-- accounts
-- browser configs
-- programs
-- vmware
-
-- MS TEAMS
-- ZOOM
-
-- vscode
-- extensions
-- prerequisites
-- default install on E:
-
 thesis chapt4 
 - base simulation
 - diagram
+
 # Things you need on a fresh install
 > Updated 11/23/2023
 
@@ -42,8 +21,8 @@ thesis chapt4
 
 ## Browsers
 - Chrome (Dev Test Environment)
-- Firefox (Base, Work, Study)
-- Brave (Base, Social Media, Unwind, Mail)
+- Firefox (Base, Work, Study, School)
+- Brave (Social Media, Unwind, Mail)
 
 ### Browser Configs and Things
 - Strict Security
@@ -56,6 +35,40 @@ thesis chapt4
 
 ## Software
 
+### Utilities
+- Voicemeter
+- Greenshot
+- WinDirStat
+- DiskTuner
+- qBittorrent
+- ProtonVPN
+- 4k Video Downloader
+- Master PDF Editor
+
+### Multimedia
+- OBS
+- After Effects
+- Premiere Pro
+
+### Messaging
+- Viber
+- Telegram
+- Messenger
+
 ## School/Study
+- MS Teams
+- MS Office
+- Adobe Acrobat
+- Zoom 
+- Okular
+
+### Notes
+- Notion
+- OneNote
 
 ## Dev Environment
+- VSCode
+- VMWare
+- Anaconda3
+- Visual Studio 2017 C++
+- Android Studio

@@ -1,11 +1,9 @@
 thesis chapt4 
 - base simulation
 - diagram
-
-# Things you need on a fresh install
 > Updated 11/23/2023
 
-## PHASES
+# Things you need on a fresh install
 - Drivers
 - Browsers
 - Software
@@ -22,7 +20,7 @@ thesis chapt4
 ## Browsers
 - Chrome (Dev Test Environment)
 - Firefox (Base, Work, Study, School)
-- Brave (Social Media, Unwind, Mail)
+- Brave (Social Media, Unwind, Mail, Cloud)
 
 ### Browser Configs and Things
 - Strict Security
@@ -31,6 +29,14 @@ thesis chapt4
 
 ### Extensions
 - [Firefox](https://www.youtube.com/watch?v=s-vwthG28ks)
+  - uBlockOrigin
+  - TreeTab
+  - HTTPS Everywhere
+  - Privacy badger
+  - Firefox Multi-Account Containers
+    - Base
+    - Google
+    - Private
 - [AdBlock YT](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
 
 ## Software
@@ -44,11 +50,13 @@ thesis chapt4
 - ProtonVPN
 - 4k Video Downloader
 - Master PDF Editor
+- WinRar
 
 ### Multimedia
 - OBS
 - After Effects
 - Premiere Pro
+- VLC
 
 ### Messaging
 - Viber
@@ -70,5 +78,6 @@ thesis chapt4
 - VSCode
 - VMWare
 - Anaconda3
+- Python 3
 - Visual Studio 2017 C++
 - Android Studio

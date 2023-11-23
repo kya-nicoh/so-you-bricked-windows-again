@@ -31,11 +31,11 @@ thesis chapt4
 - [Firefox](https://www.youtube.com/watch?v=s-vwthG28ks)
   - uBlockOrigin
   - TreeTab
-  - HTTPS Everywhere
   - Privacy badger
   - Firefox Multi-Account Containers
     - Base
     - Google
+    - Shopping
     - Private
 - [AdBlock YT](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
 
@@ -76,8 +76,10 @@ thesis chapt4
 
 ## Dev Environment
 - VSCode
-- VMWare
+-- VMWare
 - Anaconda3
 - Python 3
 - Visual Studio 2017 C++
-- Android Studio
+-- Android Studio
+- flutter
+- dart
